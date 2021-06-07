@@ -10,12 +10,19 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link href="http://fonts.cdnfonts.com/css/anurati" rel="stylesheet">
+    	       <!-- <link href="https://www.cdnfonts.com/anurati.font" rel="canonical"> -->
+                 <link rel="stylesheet" href="anurati-regular.svg">
+		<!-- <link href="http://fonts.cdnfonts.com/css/anurati" rel="stylesheet"> -->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        </head>
+
                 <style>
-                @import url('http://fonts.cdnfonts.com/css/anurati');
-                </style>
-                </head>
+                @font-face {
+                font-family: "Anurati";
+                src: local("Anurati"), url("anurati-regular.svg") format("svg");
+                }
+                </style> 
+
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -26,7 +33,7 @@
 						<!--<h2>Welcome to</h2> 
 						<a href="#" class="image main"><img src="images/Aron.png" alt="" height="1000" width="400" /></a> -->
 						<div>
-						 <aron>A R O N</aron> 
+						 <p style="font: 5rem 'Anurati'; line-height: 1.1; margin: 0 0 2rem 0; letter-spacing: 0.095em;">A R O N</p> 
 						</div>
 						<p>A Cyber Security Abstract!</p>
 						<ul class="actions">

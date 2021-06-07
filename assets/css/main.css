@@ -189,32 +189,7 @@ input, select, textarea {
 		margin: 0 0 1rem 0;
 	}
 
-        aron {
-		font-family: 'Anurati', sans-serif;
-                font-weight: 900;
-		line-height: 1.5;
-		letter-spacing: 0.005em;
-		text-transform: uppercase;
-		margin: 0 0 1rem 0;
-	}
-
-       aron3 {
-		font-family: 'Anurati', sans-serif;
-                font-weight: 900;
-		line-height: 1.5;
-		letter-spacing: 0.095em;
-		text-transform: uppercase;
-		margin: 0 0 1rem 0;
-	}	
-	
-	aron2 {
-		font-family: 'Anurati', sans-serif;
-                font-weight: 900;
-		line-height: 1.5;
-		letter-spacing: 0.095em;
-		text-transform: uppercase;
-		margin: 0 0 1rem 0;
-	}	
+        
 	
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border-bottom: 0;
@@ -228,20 +203,7 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-       aron {
-		font-size: 8rem;
-		line-height: 1.1;
-		margin: 0 0 2rem 0;
-	}
-
-      aron2 {
-		font-size: 2rem;
-		margin: 0 0 1.5rem 0;
-	}
-       aron3 {
-		font-size: 1.25rem;
-		margin: 0 0 1.5rem 0;
-	}
+       
  
  	h2 {
 		font-size: 1.75rem;
