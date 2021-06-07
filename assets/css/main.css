@@ -193,7 +193,7 @@ input, select, textarea {
 		font-family: 'Anurati', sans-serif;
                 font-weight: 900;
 		line-height: 1.5;
-		letter-spacing: 0.015em;
+		letter-spacing: 0.005em;
 		text-transform: uppercase;
 		margin: 0 0 1rem 0;
 	}
